@@ -1,4 +1,4 @@
-# TABS-COMPONENTS
+# TIBS-COMPONENTS
 
 Topics:
 
