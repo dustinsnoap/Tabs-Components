@@ -17,7 +17,7 @@ In this project, our design team has already built an HTML/CSS web page for us, 
   * Study the LESS file in the Dropdown folder. 
   * With your knowledge of the HTML and CSS, complete the `Dropdown.js` file. You will be creating a dropdown component.
 
-### Part Two (Tabs)
+[x] ### Part Two (Tabs)
 
 * Now that we have an idea of how to create a component with a single class, we will be creating a complex component made up of itself and a sub component. The greater component wrapper will be called `TabLink` and the smaller component it will create will be called `TabItem`.
   * The `TabLink` component will be the overall wrapper of the sub component. This higher level component will find and create the sub component within it. This component will be on each of what we may consider the `tabs` on top of the box. These links will control the associated item, as well as selecting and deselecting themselves.
